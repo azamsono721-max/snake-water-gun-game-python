@@ -69,6 +69,12 @@ Random Module
 If-Else Statements
 Nested Conditions
 
-👨‍💻 Author
-Muhammed Azam
-BS Computer Science Student
+```bash
+python game.py
+```
+
+## 👨‍💻 Author
+
+**Muhammed Azam**
+
+**BS Computer Science Student**
